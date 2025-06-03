@@ -36,4 +36,11 @@ Utilizando o microcontrolador ESP32 e a plataforma Wokwi, os dados são capturad
 # Execução do projeto via APP mobile
 Para a o envio de comando json via MOBILE, acesse o link do repositorio da aplicação MOBILE
 
+# Próximos Passos
+* Desenvolvimento do MVP funcional com testes reais de APIs e notificações push.
+* Criação de banco de dados e rotas seguras com base em mapas e histórico de ocorrências.
+* Parceria com Defesa Civil e órgãos locais para validação das funcionalidades.
+* Campanhas de engajamento comunitário para incentivar o uso do sistema colaborativo.
+* Versões offline e inclusivas para ampliar o alcance da solução.
+
 
