@@ -1,4 +1,4 @@
-# Weatherman Sistema Inteligente de Prevenção e Apoio em Desastres Naturais
+# Weatherman-Sistema Inteligente de Prevenção e Apoio em Desastres Naturais
 DISRUPTIVE ARCHITECTURES: IOT, IOB &amp; GENERATIVE IA
 
 # Descrição do Projeto
@@ -18,14 +18,14 @@ Utilizando o microcontrolador ESP32 e a plataforma Wokwi, os dados são capturad
 * Alertas Inteligentes: Notificações personalizadas baseadas na localização e no tipo de evento.
 
 #Tecnologias Utilizadas
-Hardware
+**Hardware**
 * ESP32
 * Sensor DHT22
 * LED
 * Resistores e Jumpers
-Linguagem
+**Linguagem**
 * C++ / Arduino
-Software
+**Software**
 * Wokwi – simulação completa do circuito
 * Broker MQTT (test.mosquitto.org)
 * PubSubClient – biblioteca para comunicação MQTT
