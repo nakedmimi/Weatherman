@@ -23,8 +23,10 @@ Utilizando o microcontrolador ESP32 e a plataforma Wokwi, os dados são capturad
 * Sensor DHT22
 * LED
 * Resistores e Jumpers
+* 
 **Linguagem**
 * C++ / Arduino
+  
 **Software**
 * Wokwi – simulação completa do circuito
 * Broker MQTT (test.mosquitto.org)
