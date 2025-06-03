@@ -17,7 +17,7 @@ Utilizando o microcontrolador ESP32 e a plataforma Wokwi, os dados são capturad
 * Simulação Online: Permite testes sem necessidade de hardware físico.
 * Alertas Inteligentes: Notificações personalizadas baseadas na localização e no tipo de evento.
 
-#Tecnologias Utilizadas
+# Tecnologias Utilizadas
 **Hardware**
 * ESP32
 * Sensor DHT22
