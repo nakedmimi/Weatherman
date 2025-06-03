@@ -33,4 +33,7 @@ Utilizando o microcontrolador ESP32 e a plataforma Wokwi, os dados são capturad
 * PubSubClient – biblioteca para comunicação MQTT
 * DHTesp – biblioteca para leitura do sensor DHT22
 
+# Execução do projeto via APP mobile
+Para a o envio de comando json via MOBILE, acesse o link do repositorio da aplicação MOBILE
+
 
