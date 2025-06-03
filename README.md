@@ -43,4 +43,9 @@ Para a o envio de comando json via MOBILE, acesse o link do repositorio da aplic
 * Campanhas de engajamento comunitário para incentivar o uso do sistema colaborativo.
 * Versões offline e inclusivas para ampliar o alcance da solução.
 
+# Autores
+Leonardo Botelho - RM: 556110 - Turma: 2TDSB - GitHub: https://github.com/Wanderluzter
+Mirian Bronzati - RM: 555041 - Turma: 2TDSB - GitHub: https://github.com/nakedmimi
+Raul Clauson| - RM: 555006 - Turma: 2TDSB - GitHub: https://github.com/RaulClauson
+
 
