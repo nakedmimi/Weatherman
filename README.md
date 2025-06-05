@@ -8,6 +8,7 @@ Utilizando o microcontrolador ESP32 e a plataforma Wokwi, os dados são capturad
 # Vídeo Pitch
 
 # Link do Projeto Wokwi
+https://wokwi.com/projects/432936098760846337
 
 # Funcionalidades
 * Leitura Ambiental com Precisão: Captura da temperatura e umidade via DHT22.
